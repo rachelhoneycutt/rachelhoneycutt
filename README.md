@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI, OS, Programming for the Web, and Web Development**
 
-- 👨‍💻 All of my projects are available at [https://rachelhoneycutt.github.io/urban-octo-dollop-FOXTROT/](https://rachelhoneycutt.github.io/urban-octo-dollop-FOXTROT/)
+- 👨‍💻 Check out my portfolio at [https://rachelhoneycutt.github.io/urban-octo-dollop-FOXTROT/](https://rachelhoneycutt.github.io/urban-octo-dollop-FOXTROT/)
 
 - 📫 How to reach me **rhoneycutt2@una.edu**
 

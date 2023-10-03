@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachel Honeycutt</h1>
 <h3 align="center">I am a Senior majoring in CS at the University of North Alabama</h3>
 
-- 🌱 I’m currently learning **AI, OS, Programming for the Web, Web Development**
+- 🌱 I’m currently learning **AI, OS, Programming for the Web, and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://rachelhoneycutt.github.io/urban-octo-dollop-FOXTROT/](https://rachelhoneycutt.github.io/urban-octo-dollop-FOXTROT/)
 
